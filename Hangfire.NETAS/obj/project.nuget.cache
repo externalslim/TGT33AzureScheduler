@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdcinx4eGA2eRD1xJqYKhGc/rzZZRIx/kOX0/ISbPaDCHo5nif0PsfPheTooevqo/OHRqLWKzACwHEj2vU6hUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cihan\\Desktop\\hangfire\\Hangfire.NETAS\\Hangfire.NETAS\\Hangfire.NETAS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cihan\\.nuget\\packages\\hangfire.aspnetcore\\1.7.11\\hangfire.aspnetcore.1.7.11.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\hangfire.core\\1.7.11\\hangfire.core.1.7.11.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\hangfire.memorystorage\\1.7.0\\hangfire.memorystorage.1.7.0.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
